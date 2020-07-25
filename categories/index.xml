@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rahul Waykos</title>
-    <link>https://rahulwaykos.site/test/categories/</link>
+    <link>https://examplesite.com/categories/</link>
     <description>Recent content in Categories on Rahul Waykos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020</copyright>
     
-	<atom:link href="https://rahulwaykos.site/test/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
