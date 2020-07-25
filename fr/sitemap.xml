@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/fr/categories/</loc>
+    <loc>https://rahulwaykos.site/test/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://rahulwaykos.site/test/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
+                href="https://rahulwaykos.site/test/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/fr/</loc>
+    <loc>https://rahulwaykos.site/test/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://rahulwaykos.site/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://rahulwaykos.site/test/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/fr/tags/</loc>
+    <loc>https://rahulwaykos.site/test/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://rahulwaykos.site/test/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://rahulwaykos.site/test/fr/tags/"
                 />
   </url>
   
